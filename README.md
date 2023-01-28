@@ -29,7 +29,7 @@ Substitute in the formula
 End the pogram
 
 ### PROGRAM:
-
+```python
 #Program to find the distance between two points.  
 #Developed by: MIDHUN AZHAHU RAJA P  
 #RegisterNumber: 22008311   
@@ -38,7 +38,7 @@ l2=[10,6]
 l1=[4,2]  
 dist=math.sqrt(((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))  
 print("{:.2f}".format(dist))  
-
+```
 ### OUTPUT :
 
 ![image](https://user-images.githubusercontent.com/118054670/211180523-cc10e368-8a71-4020-8c5c-b735725f4c01.png)
