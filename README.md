@@ -4,6 +4,11 @@
 
 To write a python program to find the distance two 2 points
 
+## EQUIPMENTS REQUIRED :
+
+- PC  
+- Anaconda - Python 3.7  
+
 ## ALGORITHM:
 
 ### Step 1: 
